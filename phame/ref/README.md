@@ -9,6 +9,8 @@ $esearch -db assembly -query "Bacillus cereus [ORGN]" | efetch -format docsum > 
 
 $ cat Bc.xml | xtract -pattern DocumentSummary -element FtpPath_RefSeq AssemblyStatus SpeciesName Sub_value | grep "Complete Genome" | sed 's/ /_/g'  > Bc_comp_genomes.txt
 
+$ shuf -n 7 Bc_comp_genomes.txt > Bc_random_seven.txtls
+    
 $ awk -F'\t' '{print "wget "$1"/*[1-2]_genomic.fna.gz" " -O " $3"_"$4".fna.gz"}' Bc_random_seven.txt | sed 's/Bacillus /B_/g' > Bc_dload.sh
 
 ```
