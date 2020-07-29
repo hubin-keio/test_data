@@ -1,5 +1,7 @@
 # Genome download
 
+Run the three *dload.sh files to get the sequences in .fna.gz format.    
+
 ### 1. Get metadata 
 
 #### 1B. Bacillus cereus
