@@ -1,0 +1,27 @@
+	B_anthracis_2000031021_noP	B_anthracis_2000031021_noP_noP	B_anthracis_Cvac02_noP	B_anthracis_FDAARGOS_705_noP	B_anthracis_PR06_noP	B_anthracis_RA3_noP	B_anthracis_SK_102_noP	B_anthracis_Turkey32_noP	B_cereus_AR156_noP	B_cereus_ATCC_14579_noP	B_cereus_CC1_noP	B_cereus_CTMA_1571_noP	B_cereus_E33L_noP	B_cereus_FM1_noP	B_cereus_HBL_AI_noP	B_cereus_SB1_noP	B_cereus_ZB201708_noP	B_paranthracis_MN1F_noP	B_thuringiensis_C15_noP	B_thuringiensis_HD1011_noP	B_thuringiensis_HD571_noP	B_thuringiensis_HM_311_noP	B_thuringiensis_SCG04_02_noP	B_thuringiensis_XL6_noP	B_thuringiensis_YBT_1520_noP	B_tropicus_LM1212_W3_noP	NBI0584183_contig	NBI0584184_contig	NBI0584185_contig	NBI0584186_contig	NBI0584187_contig	NBI0584188_contig	NBI0584189_contig	
+B_anthracis_2000031021_noP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_2000031021_noP_noP	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_Cvac02_noP	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_FDAARGOS_705_noP	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_PR06_noP	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_RA3_noP	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_SK_102_noP	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_Turkey32_noP	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_AR156_noP	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_ATCC_14579_noP	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_CC1_noP	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_CTMA_1571_noP	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_E33L_noP	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_FM1_noP	151993	152384	153008	151626	151813	150703	152328	152159	69190	230876	128538	150841	147955		225095	234333	230187	122970	219846	149646	153580	224011	225700	68433	226530	103718	127073	126988	126973	127276	127024	127048	126996	
+B_cereus_HBL_AI_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_SB1_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_ZB201708_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_paranthracis_MN1F_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_C15_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_HD1011_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_HD571_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_HM_311_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_SCG04_02_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_XL6_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	
+B_thuringiensis_YBT_1520_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	
+B_tropicus_LM1212_W3_noP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	
