@@ -1,0 +1,5 @@
+Reference used	B_cereus_FM1
+Reference genome length	5697763
+Total gap length	2820968
+Core genome length	2876795
+Total SNPs	434299

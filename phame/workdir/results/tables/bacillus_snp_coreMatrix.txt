@@ -1,0 +1,26 @@
+	B_anthracis_2000031021	B_anthracis_Cvac02	B_anthracis_FDAARGOS_705	B_anthracis_PR06	B_anthracis_RA3	B_anthracis_SK_102	B_anthracis_Turkey32	B_cereus_AR156	B_cereus_ATCC_14579	B_cereus_CC1	B_cereus_CTMA_1571	B_cereus_E33L	B_cereus_FM1	B_cereus_HBL_AI	B_cereus_SB1	B_cereus_ZB201708	B_paranthracis_MN1F	B_thuringiensis_C15	B_thuringiensis_HD1011	B_thuringiensis_HD571	B_thuringiensis_HM_311	B_thuringiensis_SCG04_02	B_thuringiensis_XL6	B_thuringiensis_YBT_1520	B_tropicus_LM1212_W3	NBI0584183_contig	NBI0584184_contig	NBI0584185_contig	NBI0584186_contig	NBI0584187_contig	NBI0584188_contig	NBI0584189_contig	
+B_anthracis_2000031021		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_Cvac02	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_FDAARGOS_705	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_PR06	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_RA3	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_SK_102	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_anthracis_Turkey32	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_AR156	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_ATCC_14579	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_CC1	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_CTMA_1571	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_E33L	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_FM1	154078	154396	153005	153196	152486	154104	153938	75188	233093	129112	155059	152966		229812	240860	233848	123667	222072	154114	153699	228030	229615	69330	230539	104938	126822	126741	126726	127029	126777	126801	126749	
+B_cereus_HBL_AI	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_SB1	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_cereus_ZB201708	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_paranthracis_MN1F	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_C15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_HD1011	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_HD571	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_HM_311	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_SCG04_02	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	
+B_thuringiensis_XL6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	
+B_thuringiensis_YBT_1520	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	
+B_tropicus_LM1212_W3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	
