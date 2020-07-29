@@ -1,0 +1,7 @@
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/568/565/GCF_003568565.1_ASM356856v1	Complete_Genome	Bacillus_cereus	HBL-AI
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/094/295/GCF_006094295.1_ASM609429v1	Complete_Genome	Bacillus_cereus	ATCC_14579
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/177/495/GCF_013177495.1_ASM1317749v1	Complete_Genome	Bacillus_cereus	CTMA_1571
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/880/305/GCF_001880305.1_ASM188030v1	Complete_Genome	Bacillus_cereus	AR156
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/833/045/GCF_000833045.1_ASM83304v1	Complete_Genome	Bacillus_cereus	E33L
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/497/015/GCF_009497015.1_ASM949701v1	Complete_Genome	Bacillus_cereus	SB1
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/006/495/GCF_004006495.1_ASM400649v1	Complete_Genome	Bacillus_cereus	ZB201708
