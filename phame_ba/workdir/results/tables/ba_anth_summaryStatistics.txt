@@ -1,0 +1,5 @@
+Reference used	B_anthracis_PR06
+Reference genome length	5228656
+Total gap length	1109697
+Core genome length	4118959
+Total SNPs	139197
